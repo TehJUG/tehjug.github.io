@@ -1,31 +1,27 @@
-![Build Status](https://gitlab.com/shirazlug/shirazlug.gitlab.io/badges/master/build.svg)
+# درباره‌ی این مخزن
 
-# داستان ما
+این مخزن شامل کدها و محتوای [سایت تهران‌لاگ](https://TehJug.org/) است که بر اساس [سایت شیرازلاگ](https://shirazlug.ir/) بوجود آمده و از کدهای آن استفاده کرده است.
 
-اعضای جامعه ی کاربری شیرازلاگ تصمیم گرفتند تا توسعه سایت را به فراماگیت و سرویس صفحات آن منتقل کنند.
+سپاس از [توسعه‌دهندگان سایت شیرازلاگ](https://framagit.org/shirazlug/shirazlug.frama.io#%D8%AA%D9%88%D8%B3%D8%B9%D9%87%D8%AF%D9%87%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%B3%D8%A7%DB%8C%D8%AA) که با انتشار کدهایشان، امکان ساخت این سایت را به ما دادند و همینطور تشکر ویژه از اقای گودرز جعفری بابت راهنمایی و کمک در استقرار سایت.
 
-برخی از این نیاز‌ها عبارت‌اند از:
+اگر شما یکی از اعضای تهران‌لاگ هستید، خوشحال می‌شویم در توسعه‌ی این سایت به ما کمک کنید.
 
-- آسانی در مشارکت همگانی
-- انعطاف پذیری و کنترل بالا در توسعه
-- مزایای استفاده از یک سیستم مدیریت نسخه مانند گیت(git)
+راه‌های کمک در توسعه‌ی سایت :
+- گزارش باگ
+- مشارکت در توسعه
+- مشارکت در گرافیک
+- ارائه‌ی پیشنهاد برای گسترش سایت
+- تهییه‌ی مستندات برای بخش‌های مختلف سایت
 
 
----
+
+
 ## توسعه‌دهندگان سایت
 
  این پروژه به لطف همهٔ کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه‌ای، به اشتراک دانش و خلاقیت خود پرداخته‌اند. شما هم می‌توانید به توسعه این سایت کمک کنید و در فهرست توسعه دهندگان قرار بگیرید.
 
-[![گودرز جعفری](https://shirazlug.ir/img/team/goudarzjafari.svg)](https://shirazlug.ir/members/jafari/)
-[![مریم بهزادی](https://shirazlug.ir/img/team/behzadi.svg)](https://shirazlug.ir/members/behzadi/)
-[![امین خزاعی](https://shirazlug.ir/img/team/khozaei.svg)](https://shirazlug.ir/members/khozaei/)
-![محمد میرشائی](https://shirazlug.ir/img/team/mirshaei.svg)
-![محسن نظام‌الملکی](https://shirazlug.ir/img/team/nezam.svg)
-![وجیهه نیکخواه](https://shirazlug.ir/img/team/nikkhah.svg)
-![پویا برزگر](https://shirazlug.ir/img/team/barzegar.svg)
-![زهره بیضاوی](https://shirazlug.ir/img/team/beyzavi.svg)
-[![بابک رزمجو](https://shirazlug.ir/img/team/razmjoo.svg)](https://shirazlug.ir/members/razmjoo/)
-[![شهرام شایگانی](https://shirazlug.ir/img/team/shaygani.svg)](https://shirazlug.ir/members/shaygani/)
+[![Goudarz](content/members/pix/goudarzjafari.svg)](https://TehJUG.org/members/jafari/)
+[![Amin](content/members/pix/Amin100.png)](https://TehJUG.org/members/Amin/)
 
 ---
 
@@ -45,11 +41,11 @@
 برای کار کردن بر روی این پروژه از طریق کامپیوتر شخصی، کافی است مراحل زیر را دنبال کنید:
 
   1. وارد حساب کاربری خود در github.com شوید، یا ثبت نام کنید.
-  2. از این پروژه با عمل [`Fork`](https://github.com/shirazlug/shirazlug.github.io/fork) یک نسخه در حساب کاربری خودتان ایجاد کنید.
-  3. با استفاده از دستور زیر یک نسخه از پروژه را به همراه ساب ماژول‌های به کار رفته در آن، در کامپیوتر شخصی خود ذخیره کنید. دقت داشته باشید که در دستور زیر به جای عبارت `USERNAME`، نام‌کاربری خودتان که در فراماگیت ساختید را قرار دهید.
+  2. از این پروژه با عمل [`Fork`](https://github.com/TehJUG/TehJUG.github.io/fork) یک نسخه در حساب کاربری خودتان ایجاد کنید.
+  3. با استفاده از دستور زیر یک نسخه از پروژه را به همراه ساب ماژول‌های به کار رفته در آن، در کامپیوتر شخصی خود ذخیره کنید. دقت داشته باشید که در دستور زیر به جای عبارت `USERNAME`، نام‌کاربری خودتان که در گیت‌هاب ساختید را قرار دهید.
 
 ```
-git clone --recursive git@github.com:USERNAME/shirazlug.github.io.git
+git clone --recursive git@github.com:USERNAME/TehJUG.github.io.git
 ```
 
   4. آخرین نسخه از هیوگو (hugo) را از طریق [این آموزش](https://gohugo.io/installation/) نصب کنید. برای اطمینان از اینکه hugo را نصب کردید و دسترسی در ترمینال دارید، در خط فرمان وارد کنید:
@@ -80,8 +76,8 @@ git submodule add https://github.com/shirazlug/hugo-refresh-rtl.git
 ```
 
   6. هر گونه تغییرات که مد نظرتان هست به سایت اضافه یا تغییر دهید. «در صورتی که با هیوگو آشنای کمتری دارید از طریق [این مستندات](https://gohugo.io/documentation/) می‌توانید، با هیوگو کار کنید.»
-  7. تغییرات خود را با دستور [`git add`](https://git-scm.com/docs/git-add) و [`git commit`](https://git-scm.com/docs/git-commit) به مخزن محلی خود اضافه کنید. سپس با ‍‍[`git push`](https://git-scm.com/docs/git-push) به مخزن شخصی خودتان در framagit.org ارسال کنید.
-  8. از Fork خودتان یک درخواست ادغام یا merge request به پروژهٔ اصلی شیرازلاگ بفرستید. اگر راهبران شیرازلاگ تغییرات شما را بپذیرند، در مخزن اصلی اعمال خواهند کرد.
+  7. تغییرات خود را با دستور [`git add`](https://git-scm.com/docs/git-add) و [`git commit`](https://git-scm.com/docs/git-commit) به مخزن محلی خود اضافه کنید. سپس با ‍‍[`git push`](https://git-scm.com/docs/git-push) به مخزن شخصی خودتان در گیت‌هاب ارسال کنید.
+  8. از Fork خودتان یک درخواست ادغام یا pull request به پروژهٔ اصلی تهران‌جاگ بفرستید. اگر راهبران تهران‌جاگ تغییرات شما را بپذیرند، در مخزن اصلی اعمال خواهند کرد.
 
 # ۲- سرویس گیت‌لب سی‌آی
 
