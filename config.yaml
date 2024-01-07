@@ -1,6 +1,6 @@
 baseURL: "https://shirazlug.ir/"
 languageCode: "fa-IR"
-title: "شیرازلاگ (گروه کاربران گنو/لینوکس شیراز)"
+title: "تهران‌جاگ (گروه برنامه‌نویسان جاوای تهران)"
 theme: hugo-refresh-rtl
 staticDir: "static"
 disableKinds: ["taxonomyTerm", "RSS"]
@@ -21,7 +21,7 @@ sitemap:
 
 params:
   # main params of the site
-  description: "وب‌سایت رسمی شیرازلاگ (گروه کاربران گنو/لینوکس شیراز)"
+  description: "وب‌سایت رسمی تهران‌جاگ (گروه برنامه‌نویسان جاوای تهران)"
   images:
     - img/site-feature-image.jpg
 
@@ -33,7 +33,7 @@ params:
 
   # option to specify the main colour of the theme
   mainColour: "#F39200"
-  author: "شیرازلاگ"
+  author: "تهران‌جاگ"
   favicon: "favicon.ico"
   og_image: "img/team/og_image.jpg"
 
@@ -104,6 +104,13 @@ params:
         icon: 'info'
       },
       {
+        name: "donations",
+        title: "حمایت‌های مالی",
+        url: "/donations/records",
+        weight: 1,
+        icon: 'link'
+      },
+      {
         name: "links",
         title: "لینک‌های مفید",
         url: "/links/",
@@ -127,10 +134,10 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: "شیرازلاگ"
+    title: "تهران‌جاگ"
     # option to specify the subtitle in the homepage
-    subtitle: " (گروه کاربران لینوکس شیراز) "
-    description: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
+    subtitle: " (گروه برنامه‌نویسان جاوای تهران) "
+    description: "به تهران‌جاگ خوش آمدید :) جاگ به معنی گروه برنامه‌نویسان جاوا است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی برنامه‌نویسی جاوا دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
     # Logo
     logo: "logo/shirazlug.svg"
 
@@ -141,7 +148,7 @@ params:
 
     imageWidth: 500px
     # Address
-    address: "شیراز، بلوار مدرس، بلوار آزادگان، کارخانه نوآوری شیراز"
+    address: "تهران"
 
   section:
     fontFamily: "Shabnam"
@@ -150,7 +157,7 @@ params:
   footer:
     fontFamily: "Shabnam"
     logo: "logo/shirazlug_white.svg"
-    copyright: "۱۳۹۳ - ۱۴۰۲ Ⓒ شیرازلاگ"
+    copyright: "۱۴۰۱ - ۱۴۰۲ Ⓒ تهران‌جاگ"
     social: [
       {
         title: "contact@shirazlug.ir",
@@ -191,8 +198,8 @@ params:
       },
       {
         title: "سورس کدها",
-        icon: "fab fa-gitlab",
-        url: "https://framagit.org/shirazlug",
+        icon: "fab fa-github",
+        url: "https://github.com/TehJUG/tehjug.github.io",
         weight: 1
       }
     ]
