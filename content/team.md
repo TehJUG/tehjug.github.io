@@ -9,23 +9,23 @@ readmore: true
 ---
 
 ## برنامه‌ریزی و هماهنگی جلسات
-[![امین بازگیر](/img/team/Amin100.png)](/members/AminBazgir/)
-[![حسام غیاثی](/img/team/hesam.png)](/members/HesamGhiasi/)
+[![امین بازگیر](/img/team/Amin100.png)](/members/amin-bazgir/)
+[![حسام غیاثی](/img/team/hesam.png)](/members/hesam-ghiasi/)
 
 ---
 
 ## توسعهٔ سایت
-[![امین بازگیر](/img/team/Amin100.png)](/members/AminBazgir/)
+[![امین بازگیر](/img/team/Amin100.png)](/members/amin-bazgir/)
 
 ---
 
 ## شبکه‌های اجتماعی
-[![امین بازگیر](/img/team/Amin100.png)](/members/AminBazgir/)
-[![حسام غیاثی](/img/team/hesam.png)](/members/HesamGhiasi/)
+[![امین بازگیر](/img/team/Amin100.png)](/members/amin-bazgir/)
+[![حسام غیاثی](/img/team/hesam.png)](/members/hesam-ghiasi/)
 
 ---
 
 ## گرافیک
-[![امین بازگیر](/img/team/Amin100.png)](/members/AminBazgir/)
+[![امین بازگیر](/img/team/Amin100.png)](/members/amin-bazgir/)
 
 ---
