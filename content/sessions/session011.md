@@ -29,6 +29,5 @@ readmore: true
     <img src="https://media.licdn.com/dms/image/D4D22AQF6lstuzH9bew/feedshare-shrink_2048_1536/0/1708628659949?e=1711584000&v=beta&t=ttcyAKtgiXJdITg_cXw88YJ93BC5yG1i4g01tUGHHZc" width="300"/>
     <img src="https://media.licdn.com/dms/image/D4D22AQHQbG9Wnt7Uzw/feedshare-shrink_2048_1536/0/1708628651809?e=1711584000&v=beta&t=keuGDNPBcMocjj0rD384YY3MQyIGLF-ma5uNlqsFJk8" width="300"/>
     <img src="https://media.licdn.com/dms/image/D4D22AQG9x22Z0P4HoA/feedshare-shrink_2048_1536/0/1708628655433?e=1711584000&v=beta&t=dlxUHfRyVttYS4SoYJ9fFtBbC9qFUD705uyugaqjNzY" width="300"/>
-    <img src="https://media.licdn.com/dms/image/D4D22AQHQbG9Wnt7Uzw/feedshare-shrink_2048_1536/0/1708628651809?e=1711584000&v=beta&t=keuGDNPBcMocjj0rD384YY3MQyIGLF-ma5uNlqsFJk8" width="300"/>
 </div>
 
