@@ -166,34 +166,34 @@ params:
         weight: 7
       },
       {
-        title: "کانال تلگرام",
+        title: "گروه تلگرام",
         icon: "fab fa-telegram",
-        url: "https://t.me/shirazlug",
+        url: "https://t.me/TehranJUG",
         weight: 6
       },
       {
         title: "ماستودون",
         icon: "fab fa-mastodon",
         rel: "me",
-        url: "https://mastodon.social/@ShirazLUG",
+        url: "https://mastodon.social/",
         weight: 5
       },
       {
         title: "اینستاگرام",
         icon: "fab fa-instagram",
-        url: "https://www.instagram.com/ShirazLUG.ir/",
+        url: "https://www.instagram.com/",
         weight: 4
       },
       {
         title: "توییتر",
         icon: "fab fa-twitter",
-        url: "https://twitter.com/ShirazLUG_ir",
+        url: "https://twitter.com/",
         weight: 3
       },
       {
         title: "لینکدین",
         icon: "fab fa-linkedin",
-        url: "https://www.linkedin.com/in/shirazlug/",
+        url: "https://www.linkedin.com/in/",
         weight: 2
       },
       {
