@@ -70,7 +70,7 @@ params:
       },
       {
         name: "sessions",
-        title: "نشست‌های لاگ",
+        title: "نشست‌های جاگ",
         url: "/sessions/",
         weight: 7,
         icon: 'th-list'
